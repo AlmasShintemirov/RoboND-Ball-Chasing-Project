@@ -10,3 +10,6 @@ to run the package
 4) roslaunch my_robot world.launch
 5) roslaunch ball_chaser ball_chaser.launch
 6) rosrun rqt_image_view rqt_image_view 
+
+/home/alaris/Pictures/my-robot.png![my-robot](https://user-images.githubusercontent.com/13367696/131069817-f56cdd4b-ffda-4f26-9136-e91d3164556c.png)
+
