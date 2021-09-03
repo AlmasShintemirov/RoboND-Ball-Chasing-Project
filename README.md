@@ -1,4 +1,4 @@
-# RoboND_Ball Chasing
+# RoboND Ball Chasing Project
 Udacity Robotics Software Engineer Nanodegree Project 2.
 This project implements a skid-steering robot, chasing a white ball.
 
