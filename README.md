@@ -1,8 +1,10 @@
 # RoboND Ball Chasing Project
 Udacity Robotics Software Engineer Nanodegree Project 2.
+
 This project implements a skid-steering robot, chasing a white ball.
 
-to run the package 
+To run the package 
+
 1) git clone the package into your ../catkin_ws/src folder 
 2) cd ../catkin_ws
 3) catkin_make
